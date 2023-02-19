@@ -34,5 +34,16 @@
     /* flex-direction: column;
     flex-wrap: wrap; */
     flex-flow: column wrap;
-    height: 250px;
+    height: 260px;
+}
+
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 22%;
+    margin-bottom: 1%;
 }
