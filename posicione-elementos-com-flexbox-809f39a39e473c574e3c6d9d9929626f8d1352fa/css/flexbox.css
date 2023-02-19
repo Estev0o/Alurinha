@@ -13,3 +13,7 @@
     justify-content: space-between;
 }
 
+.rodapePrincipal-patrocinadores-list {
+    display: flex;
+    align-items: center;
+}
