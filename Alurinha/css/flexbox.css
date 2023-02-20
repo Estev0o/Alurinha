@@ -57,7 +57,7 @@
 
 .videoSobre .container {
     display: flex;
-    
+
 }
 
 .videoSobre-sobre {
@@ -74,7 +74,7 @@
 .videoSobre-video {
     flex-grow: 0.5;
     flex-shrink: 2;
-    
+
 }
 
 /* Mobile */
@@ -93,11 +93,11 @@
     .conteudoPrincipal-cursos {
         flex-direction: column;
     }
-    
+
     .conteudoPrincipal-cursos-link {
         width: 100%;
     }
-    
+
     .rodapePrincipal-navMap-list {
         height: auto;
     }
@@ -115,7 +115,7 @@
     .rodapePrincipal-contatoForm {
         width: auto;
     }
-    
+
     .cabecalhoPrincipal-nav-link-app {
         order: -1;
     }
