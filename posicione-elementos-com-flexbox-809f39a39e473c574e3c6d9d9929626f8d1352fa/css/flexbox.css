@@ -79,4 +79,13 @@
     .rodapePrincipal-navMap-list {
         height: auto;
     }
+
+    .rodapePrincipal-patrocinadores .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rodapePrincipal-contatoForm {
+        width: auto;
+    }
 }
