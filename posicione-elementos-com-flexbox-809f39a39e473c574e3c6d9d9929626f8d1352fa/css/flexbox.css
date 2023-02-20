@@ -57,13 +57,13 @@
 
 /* Mobile */
 @media (min-width: 320px) {
-    
+
     .cabecalhoPrincipal-nav {
         flex-direction: column;
     
     }
     
-    .cabecalhoPrincipal-nav .container {
+    .container {
         flex-direction: column;
     }
 }
