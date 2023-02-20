@@ -85,7 +85,13 @@
         align-items: center;
     }
 
+    .rodapePrincipal-patrocinadores-list {
+        margin: 0;
+        width: 100%;
+    }
+
     .rodapePrincipal-contatoForm {
         width: auto;
     }
+    
 }
