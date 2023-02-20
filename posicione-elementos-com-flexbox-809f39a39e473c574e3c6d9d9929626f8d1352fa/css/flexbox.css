@@ -56,15 +56,16 @@
 }
 
 /* Mobile */
-@media (min-width: 320px) {
+@media screen and (min-width: 320px) {
 
     .cabecalhoPrincipal-nav {
         flex-direction: column;
-    
     }
-    
-    .container {
+
+    .cabecalhoPrincipal .container {
         flex-direction: column;
-        
+        align-items: initial;
+        text-align: center;
     }
+    
 }
